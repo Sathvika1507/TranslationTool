@@ -1,0 +1,6 @@
+customtkinter
+requests
+pyttsx3
+# optional (speech-to-text); heavy on Mac; install only if you want voice input:
+speechrecognition
+pyaudio  # may require brew install portaudio and pip install pipwin or special build on mac
